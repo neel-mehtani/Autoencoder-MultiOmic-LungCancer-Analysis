@@ -1,12 +1,5 @@
 # Multi-omic Analysis of Lung Cancer using Autoencoders
 
-## 02-718 Computational Medicine Course Project
-
-## Contributors
-- **Arnav Gupta**  
-- **Ketaki Ghatole** 
-
-
 ## Description
 Lung Cancer is one of the most common and fatal cancer types. It accounts for 11.4% of total cancer cases leading 
 to over one million deaths annuall. The 
