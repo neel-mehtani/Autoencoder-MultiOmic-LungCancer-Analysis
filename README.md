@@ -16,10 +16,10 @@ Atlas (TCGA).
 <img width="811" alt="Screenshot 2023-01-09 at 1 11 58 PM" 
 src="https://user-images.githubusercontent.com/52592007/211315953-5859396e-ed52-4c4c-b9bd-d61b6010badd.png">
 
-1. This project aims to use Autoencoders for unsupervised for dimensionality reduction. We built 4 different 
-autoencoders using pytorch - GE, CNV, GE + CNV, GE + CNV ensemble  
-2. We visualised the data using PCA and t-SNE
-3. We further aim to classify between the ALC and SCLC using supervised machine learning models Support Vector 
+1. This project aims to use Autoencoders for unsupervised for dimensionality reduction. 4 different 
+autoencoder implementations using pytorch were used - GE, CNV, GE + CNV, GE + CNV ensemble  
+2. Data was visualized using PCA and t-SNE
+3. Classification of ALC vs. SCLC was conducted using supervised machine learning models Support Vector 
 Machine (SVM) and Random Forest and compare the results for mono-omic and multi-omic data using a 5-fold Cross
 Validation
 
